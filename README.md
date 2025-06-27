@@ -1,5 +1,7 @@
 # Slides from my talks on PostgreSQL Conferences and Meetups
 
+See my whole [Speaker Profile](https://medium.com/@josef.machytka/josef-machytka-speaker-portfolio-efd5a75e6a3b) on Medium.com
+
 ## 2024
 
 ### [2024-06-05 - Prague PostgreSQL Developers Day 2024](https://p2d2.cz/rocnik-2024/prednasky)
@@ -18,5 +20,9 @@
 ### [Prague PostgreSQL MeetUp October 2024]()
 
 - [PostgreSQL and DuckDB: Combining the best of both Worlds for quicker Data Analysis and ETL processing](./2024/prague_postgresql_meetup_202410/postgresql_and_duckdb.pdf)
+
+### NetApp internal talks
+
+## 2025
 
 # Articles
