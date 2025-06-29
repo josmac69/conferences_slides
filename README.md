@@ -4,6 +4,34 @@ See my whole [Speaker Profile](https://medium.com/@josef.machytka/josef-machytka
 
 ## 2025
 
+### [Swiss PG Day 2025](https://www.pgday.ch/2025/#schedule)
+
+- [Building a Data Lakehouse with PostgreSQL: Dive into Formats, Tools, Techniques, and Strategies (version 3)](./2025/swiss_postgresql_day_2025/postgresql_data_lakehouse.pdf)
+- [Lightning talk: Boldly Migrate to PostgreSQL with credativ-pg-migrator](./2025/swiss_postgresql_day_2025/credativ-pg-migrator_talk-lightning_talk.pdf)
+
+### [Berlin PostgreSQL MeetUp June 2025](https://www.meetup.com/postgresql-meetup-berlin/events/307322849/)
+
+- [Database in Distress: Testing and Repairing Different Types of Database Corruption](./2025/berlin_postgresql_meetup_202506/postgresql_database_corruption.pdf)
+- [Lightning talk: Boldly Migrate to PostgreSQL with credativ-pg-migrator](./2025/berlin_postgresql_meetup_202506/credativ-pg-migrator_talk-lightning_talk.pdf)
+
+### [PostgreSQL User Group NRW MeetUp, Mönchengladbach](https://www.meetup.com/postgresql-user-group-nrw/events/307792609/)
+
+- [Boldly Migrate to PostgreSQL with credativ-pg-migrator](./2025/meetup_nrw_user_group_mönchengladbach_202506/credativ_pg_migrator_talk.pdf)
+
+### [German PostgreSQL Conference 2025](https://www.postgresql.eu/events/pgconfde2025/schedule/)
+
+- [Building a Data Lakehouse with PostgreSQL: Dive into Formats, Tools, Techniques, and Strategies (version 2)](./2025/pg_conf_de_2025/postgresql_data_lakehouse.pdf)
+- [PostgreSQL Connections Memory Usage: How Much, Why and When? On Debian/Ubuntu-x86-64 architecture](./2025/pg_conf_de_2025/postgresql_connection_memory_usage.pdf)
+- [Your Data Deserves the Best - Migration to PostgreSQL](./2025/pg_conf_de_2025/migration_to_postgresql_sponsor_talk.pdf)
+
+### [Prague PostgreSQL Developer Day 2025](https://p2d2.cz/2025/prednasky)
+
+- [Building a Data Lakehouse with PostgreSQL: Dive into Formats, Tools, Techniques, and Strategies (version 1)](./2025/prague_postgresql_developer_day_2025/postgresql_data_lakehouse.pdf)
+
+### [PostgreSQL MeetUp for All](./2025/postgresql_meetup_for_all_20250108/meetup_postgres-meetup-for-all_events_304958851.pdf)
+
+- [PostgreSQL and DuckDB: Supercharging ad-hoc Data Analysis and ETL](./2025/postgresql_meetup_for_all_20250108/postgresql_and_duckdb.pdf)
+
 ## 2024
 
 ### NetApp internal talks - November 2024
