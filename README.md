@@ -4,6 +4,10 @@ See my whole [Speaker Profile](https://medium.com/@josef.machytka/josef-machytka
 
 ## 2025
 
+### [Armenia PostgreSQL User Group Online MeetUp, July 2025](https://www.meetup.com/armenia-postgresql-user-group/events/308579924/)
+
+- [PostgreSQL Connections Memory Usage: How Much, Why and When? On Debian/Ubuntu-x86-64 architecture](./2025/armenia_user_group_meetup_202507/postgresql_connection_memory_usage.pdf)
+
 ### [Swiss PG Day 2025](https://www.pgday.ch/2025/#schedule)
 
 - [Building a Data Lakehouse with PostgreSQL: Dive into Formats, Tools, Techniques, and Strategies (version 3)](./2025/swiss_postgresql_day_2025/postgresql_data_lakehouse.pdf)
