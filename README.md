@@ -8,15 +8,15 @@ See my whole [Speaker Profile](https://medium.com/@josef.machytka/josef-machytka
 
 - [Iceberg Ahead! PostgreSQL Sailing Confidently in Data Lakehouse Waters](./2025/pgday_ibiza_2025/postgresql_apache_iceberg.pdf)
 
-### [2025.09.22: Prague PostgreSQL Meetup: September Edition]
+### [2025.09.22: Prague PostgreSQL Meetup: September Edition](https://www.meetup.com/prague-postgresql-meetup/events/308864510/)
 
 - [PostgreSQL Connections Memory Usage on Linux: How Much, Why, and When?](./2025/prague_postgresql_meetup_202509/postgresql_connection_memory_usage.pdf)
 
-### [2025.09.12: PG Day Lowlands 2025]
+### [2025.09.12: PG Day Lowlands 2025](https://www.postgresql.eu/events/pgdaynl2025/schedule/)
 
 - [Database in Distress: Testing and Repairing Different Types of Database Corruption](./2025/pg_day_lowlands_2025/postgresql_database_corruption.pdf)
 
-### [2025.09.11: PostgreSQL Usergroup NL MeetUp Rotterdam]
+### [2025.09.11: PostgreSQL Usergroup NL MeetUp Rotterdam](https://www.meetup.com/postgresql-user-group-nl/events/310728717/)
 
 - [Lightning talk: Boldly Migrate to PostgreSQL with credativ-pg-migrator](./2025/pgday_lowlands_2025/credativ-pg-migrator_talk-lightning_talk.pdf)
 
