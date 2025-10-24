@@ -4,6 +4,10 @@ See my whole [Speaker Profile](https://medium.com/@josef.machytka/josef-machytka
 
 ## 2025
 
+### [2025.10.24: PostgreSQL Conference Europe 2025](https://2025.pgconf.eu/)
+
+- [Database in Distress: Testing and Repairing Different Types of Database Corruption](./2025/pg_conf_eu_2025/postgresql_database_corruption.pdf)
+
 ### [2025.10.15: Postgres Ibiza 2025](https://pgibz.io/index.html)
 
 - [Iceberg Ahead! PostgreSQL Sailing Confidently in Data Lakehouse Waters](./2025/pgday_ibiza_2025/postgresql_apache_iceberg.pdf)
