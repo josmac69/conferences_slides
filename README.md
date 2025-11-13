@@ -4,6 +4,10 @@ See my whole [Speaker Profile](https://medium.com/@josef.machytka/josef-machytka
 
 ## 2025
 
+### [2025.11.13: PostgreSQL MeetUp Berlin November 2025](https://www.meetup.com/postgresql-meetup-berlin/events/311561270/)
+
+- [PostgreSQL 18 - New Features & Improvements](./2025/postgresql_meetup_berlin_20251113/postgresql_18_new_features_meetup.pdf)
+
 ### [2025.10.24: PostgreSQL Conference Europe 2025](https://2025.pgconf.eu/)
 
 - [Database in Distress: Testing and Repairing Different Types of Database Corruption](./2025/pg_conf_eu_2025/postgresql_database_corruption.pdf)
