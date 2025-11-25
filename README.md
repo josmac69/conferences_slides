@@ -4,6 +4,10 @@ See my whole [Speaker Profile](https://medium.com/@josef.machytka/josef-machytka
 
 ## 2025
 
+### 2025.11.21: credativ Tech Talk
+
+- [Sorting Out Collations in PostgreSQL: Implementation, Upgrades, Survival Strategies](./2025/credativ_tech_talk_20251121/postgresql_collations.pdf/)
+
 ### [2025.11.13: PostgreSQL MeetUp Berlin November 2025](https://www.meetup.com/postgresql-meetup-berlin/events/311561270/)
 
 - [PostgreSQL 18 - New Features & Improvements](./2025/postgresql_meetup_berlin_20251113/postgresql_18_new_features_meetup.pdf)
@@ -27,6 +31,10 @@ See my whole [Speaker Profile](https://medium.com/@josef.machytka/josef-machytka
 ### [2025.09.11: PostgreSQL Usergroup NL MeetUp Rotterdam](https://www.meetup.com/postgresql-user-group-nl/events/310728717/)
 
 - [Lightning talk: Boldly Migrate to PostgreSQL with credativ-pg-migrator](./2025/pgday_lowlands_2025/credativ-pg-migrator_talk-lightning_talk.pdf)
+
+### 2025.08.27: credativ Tech Talk
+
+- [PostgreSQL Native Partitioning: From Ancient Monolithic Tables to Scalable Better Future](./2025/credativ_tech_talk_20250827/postgresql_partitioning.pdf)	
 
 ### [2025.07.02: Armenia PostgreSQL User Group Online MeetUp, July 2025](https://www.meetup.com/armenia-postgresql-user-group/events/308579924/)
 
