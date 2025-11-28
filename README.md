@@ -1,8 +1,41 @@
 # Slides from my talks on PostgreSQL Conferences and Meetups
 
-See my whole [Speaker Profile](https://medium.com/@josef.machytka/josef-machytka-speaker-portfolio-efd5a75e6a3b) on Medium.com
+See details of my [Speaker Profile](https://medium.com/@josef.machytka/josef-machytka-speaker-portfolio-efd5a75e6a3b) on Medium.com
 
-## 2025
+* [Slides organized by topics](#topics)
+* [Slides organized by year and event date](#2025)
+
+## <a id="topics"></a>Topics
+
+- Collations: [Slides](./2025/credativ_tech_talk_20251121/postgresql_collations.pdf/)
+
+### New Features in PostgreSQL
+
+- PostgreSQL 18 New Features: [Slides](./2025/postgresql_meetup_berlin_20251113/postgresql_18_new_features_meetup.pdf)
+- PostgreSQL 17 New Features: [Slides](./2024/netapp_internal_talks/postgresql_17_new_features/postgresql_17_new_features.pdf)
+
+### Data Lakehouse
+
+- Data Lakehouse with PostgreSQL: [Slides](./2025/prague_postgresql_developer_day_2025/postgresql_data_lakehouse.pdf)
+- Apache Iceberg and PostgreSQL: [Slides](./2025/pgday_ibiza_2025/postgresql_apache_iceberg.pdf)
+
+### Memory Usage
+
+- PostgreSQL Connections Memory Usage: [Slides](./2025/prague_postgresql_meetup_202509/postgresql_connection_memory_usage.pdf)
+
+### Artificial Intelligence (AI)
+
+- AI Buzzwords Explained: [Slides](./2024/netapp_internal_talks/ai_buzzwords/ai_buzzwords_explained.pdf)
+- AI Philosophical and Ethical Aspects: [Slides](./2024/netapp_internal_talks/ai_dilemmas/ai_philosophical_ethical_aspects.pdf)
+- AI Hallucinations: [Slides](./2024/netapp_internal_talks/ai_hallucinations/ai_hallucinations_errors_vs_creativity.pdf)
+- AI Prompt Engineering: [Slides](./2024/netapp_internal_talks/ai_prompt_engineering/art_and_science_of_ai_prompt_engineering.pdf)
+
+### Other Topics
+
+- Migration to PostgreSQL with credativ-pg-migrator: [Slides](./2025/pg_conf_de_2025/migration_to_postgresql_sponsor_talk.pdf)
+- Database Corruption: [Slides](./2025/pg_conf_eu_2025/postgresql_database_corruption.pdf)
+
+## <a id="2025"></a>2025
 
 ### 2025.11.21: credativ Tech Talk
 
