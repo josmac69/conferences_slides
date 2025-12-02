@@ -32,10 +32,15 @@ See details of my [Speaker Profile](https://medium.com/@josef.machytka/josef-mac
 
 ### Other Topics
 
+- UUIDv4 vs UUIDv7 in PostgreSQL 18: [Slides](./2025/credativ_tech_talk_20251205/postgresql_uuid_primary_key.pdf)
 - Migration to PostgreSQL with credativ-pg-migrator: [Slides](./2025/pg_conf_de_2025/migration_to_postgresql_sponsor_talk.pdf)
 - Database Corruption: [Slides](./2025/pg_conf_eu_2025/postgresql_database_corruption.pdf)
 
 ## <a id="2025"></a>2025
+
+### 2025.12.05: credativ Tech Talk
+
+- [UUIDv4 vs UUIDv7 in PostgreSQL 18: A Story of More Friendly UUID based Primary Keys](./2025/credativ_tech_talk_20251205/postgresql_uuid_primary_key.pdf)
 
 ### 2025.11.21: credativ Tech Talk
 
