@@ -3,7 +3,9 @@
 See details of my [Speaker Profile](https://medium.com/@josef.machytka/josef-machytka-speaker-portfolio-efd5a75e6a3b) on Medium.com
 
 * [Slides organized by topics](#topics)
-* [Slides organized by year and event date](#2025)
+* [Slides organized by year and event date](#Dates)
+
+---
 
 ## <a id="topics"></a>Topics
 
@@ -11,7 +13,9 @@ See details of my [Speaker Profile](https://medium.com/@josef.machytka/josef-mac
 
 ### New Features in PostgreSQL
 
+- PostgreSQL 18 Asynchronous Disk I/O: [Slides](./2025/credativ_tech_talk_20251024/postgresql_asynchronous_disk_io.pdf)
 - PostgreSQL 18 New Features: [Slides](./2025/postgresql_meetup_berlin_20251113/postgresql_18_new_features_meetup.pdf)
+- UUIDv4 vs UUIDv7 in PostgreSQL 18: [Slides](./2025/credativ_tech_talk_20251205/postgresql_uuid_primary_key.pdf)
 - PostgreSQL 17 New Features: [Slides](./2024/netapp_internal_talks/postgresql_17_new_features/postgresql_17_new_features.pdf)
 
 ### Data Lakehouse
@@ -32,11 +36,14 @@ See details of my [Speaker Profile](https://medium.com/@josef.machytka/josef-mac
 
 ### Other Topics
 
-- UUIDv4 vs UUIDv7 in PostgreSQL 18: [Slides](./2025/credativ_tech_talk_20251205/postgresql_uuid_primary_key.pdf)
 - Migration to PostgreSQL with credativ-pg-migrator: [Slides](./2025/pg_conf_de_2025/migration_to_postgresql_sponsor_talk.pdf)
 - Database Corruption: [Slides](./2025/pg_conf_eu_2025/postgresql_database_corruption.pdf)
 
-## <a id="2025"></a>2025
+---
+
+## <a id="Dates"></a>Slides organized by year and event date
+
+## 2025
 
 ### 2025.12.05: credativ Tech Talk
 
@@ -53,6 +60,10 @@ See details of my [Speaker Profile](https://medium.com/@josef.machytka/josef-mac
 ### [2025.10.24: PostgreSQL Conference Europe 2025](https://2025.pgconf.eu/)
 
 - [Database in Distress: Testing and Repairing Different Types of Database Corruption](./2025/pg_conf_eu_2025/postgresql_database_corruption.pdf)
+
+### 2025.10.24: credativ Tech Talk
+
+- [PostgreSQL 18 Asynchronous Disk I/O: How it works under the hood](./2025/credativ_tech_talk_20251024/postgresql_asynchronous_disk_io.pdf)
 
 ### [2025.10.15: Postgres Ibiza 2025](https://pgibz.io/index.html)
 
