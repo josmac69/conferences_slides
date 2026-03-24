@@ -1,5 +1,25 @@
 # Slides Organized by Year and Event Date
 
+
+## 2026
+
+### 2026.04.14: Nordic PGDay 2026 Helsinki
+
+- [Beyond work_mem Myths](./2026/nordic_pgday_2026_helsinki/beyond_work_mem_myths.pdf)
+
+### 2026.03.18: CERN PGDay 2026
+
+- [PostgreSQL Shared Buffers Internals](./2026/CERN_PGDay_2026/postgresql_shared_buffers.pdf)
+
+### 2026.02.04: Prague PostgreSQL Developer Day 2026
+
+- [PgBouncer Workshop Part 1](./2026/Prague_PostgreSQL_Developer_Day_2026/pgbouncer_workshop_part1.pdf)
+- [PgBouncer Workshop Part 2](./2026/Prague_PostgreSQL_Developer_Day_2026/pgbouncer_workshop_part2.pdf)
+
+### 2026.01.21: Prague PostgreSQL MeetUp January 2026
+
+- [Self-Driving PostgreSQL](./2026/Prague_PostgreSQL_MeetUp_202601/selfdriving_postgresql.pdf)
+
 ## 2025
 
 ### 2025.12.05: credativ Tech Talk
@@ -29,10 +49,12 @@
 ### [2025.09.22: Prague PostgreSQL Meetup: September Edition](https://www.meetup.com/prague-postgresql-meetup/events/308864510/)
 
 - [PostgreSQL Connections Memory Usage on Linux: How Much, Why, and When?](./2025/prague_postgresql_meetup_202509/postgresql_connection_memory_usage.pdf)
+- [Connections Memory Usage (alt path)](./2025/prague_postgresql_meetup_september_2025/postgresql_connection_memory_usage.pdf)
 
 ### [2025.09.12: PG Day Lowlands 2025](https://www.postgresql.eu/events/pgdaynl2025/schedule/)
 
 - [Database in Distress: Testing and Repairing Different Types of Database Corruption](./2025/pg_day_lowlands_2025/postgresql_database_corruption.pdf)
+- [Database Corruption (alt path)](./2025/pgday_lowlands_2025/postgresql_database_corruption.pdf)
 
 ### [2025.09.11: PostgreSQL Usergroup NL MeetUp Rotterdam](https://www.meetup.com/postgresql-user-group-nl/events/310728717/)
 
@@ -51,9 +73,14 @@
 - [Building a Data Lakehouse with PostgreSQL: Dive into Formats, Tools, Techniques, and Strategies (version 3)](./2025/swiss_postgresql_day_2025/postgresql_data_lakehouse.pdf)
 - [Lightning talk: Boldly Migrate to PostgreSQL with credativ-pg-migrator](./2025/swiss_postgresql_day_2025/credativ-pg-migrator_talk-lightning_talk.pdf)
 
+### 2025.06.20: credativ Tech Talk
+
+- [JSONB Data and Indexes](./2025/credativ_tech_talk_20250620/jsonb_data_and_indexes.pdf)
+
 ### [2025.06.19: Berlin PostgreSQL MeetUp June 2025](https://www.meetup.com/postgresql-meetup-berlin/events/307322849/)
 
 - [Database in Distress: Testing and Repairing Different Types of Database Corruption](./2025/berlin_postgresql_meetup_202506/postgresql_database_corruption.pdf)
+- [Meetup Event Page](./2025/berlin_postgresql_meetup_202506/PostgreSQL Berlin June Meetup, Thu, Jun 19, 2025, 6_30 PM _ Meetup.pdf)
 - [Lightning talk: Boldly Migrate to PostgreSQL with credativ-pg-migrator](./2025/berlin_postgresql_meetup_202506/credativ-pg-migrator_talk-lightning_talk.pdf)
 
 ### [2025.06.03: PostgreSQL User Group NRW MeetUp, Mönchengladbach](https://www.meetup.com/postgresql-user-group-nrw/events/307792609/)
@@ -87,10 +114,13 @@
 ### [2024.10.29: Prague PostgreSQL MeetUp October 2024]()
 
 - [PostgreSQL and DuckDB: Combining the best of both Worlds for quicker Data Analysis and ETL processing](./2024/prague_postgresql_meetup_202410/postgresql_and_duckdb.pdf)
+- [Meetup Event Page](./2024/prague_postgresql_meetup_202410/meetup_prague-postgresql-meetup_events_301524775.pdf)
 
 ### [2024.10.09: PostgreSQL MeetUp Berlin October 2024](https://www.meetup.com/)
 
 - [GIN, BTREE_GIN, GIST, BTREE_GIST, HASH & BTREE indexes on JSONB data](./2024/berlin_postgresql_meetup_202410/jsonb_meetup_berlin_2024.pdf)
+- [Andreas Scherbaum Talk](./2024/berlin_postgresql_meetup_202410/andreas-scherbaum-la_2024-10-11_postgresql-berlin-october-2024-meetup.pdf)
+- [Meetup Event Page](./2024/berlin_postgresql_meetup_202410/meetup_postgresql-meetup-berlin_events_302774906.pdf)
 
 ### [2024.06.27: Swiss PG day 2024](https://www.pgday.ch/2024/#schedule)
 
