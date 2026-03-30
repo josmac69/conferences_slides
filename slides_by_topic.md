@@ -46,4 +46,5 @@
 
 - credativ-pg-migrator Talk: [Slides](./2025/credativ_tech_talk_20251031/credativ_pg_migrator_talk.pdf)
 - Migration to PostgreSQL with credativ-pg-migrator: [Slides](./2025/pg_conf_de_2025/migration_to_postgresql_sponsor_talk.pdf)
+- Migrations to PostgreSQL: [Slides](./2026/chemnitzer_linux_tage_2026/migrations_to_postgresql.pdf)
 - Database Corruption: [Slides](./2025/pg_conf_eu_2025/postgresql_database_corruption.pdf)

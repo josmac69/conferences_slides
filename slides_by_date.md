@@ -3,20 +3,24 @@
 
 ## 2026
 
-### 2026.04.14: Nordic PGDay 2026 Helsinki
+### 2026.03.28: Chemnitzer Linux-Tage 2026
+
+- [Migrations to PostgreSQL](./2026/chemnitzer_linux_tage_2026/migrations_to_postgresql.pdf)
+
+### 2026.03.24: Nordic PGDay 2026 Helsinki
 
 - [Beyond work_mem Myths](./2026/nordic_pgday_2026_helsinki/beyond_work_mem_myths.pdf)
 
-### 2026.03.18: CERN PGDay 2026
+### 2026.02.06: CERN PGDay 2026
 
 - [PostgreSQL Shared Buffers Internals](./2026/CERN_PGDay_2026/postgresql_shared_buffers.pdf)
 
-### 2026.02.04: Prague PostgreSQL Developer Day 2026
+### 2026.01.27: Prague PostgreSQL Developer Day 2026
 
 - [PgBouncer Workshop Part 1](./2026/Prague_PostgreSQL_Developer_Day_2026/pgbouncer_workshop_part1.pdf)
 - [PgBouncer Workshop Part 2](./2026/Prague_PostgreSQL_Developer_Day_2026/pgbouncer_workshop_part2.pdf)
 
-### 2026.01.21: Prague PostgreSQL MeetUp January 2026
+### 2026.01.27: Prague PostgreSQL MeetUp January 2026
 
 - [Self-Driving PostgreSQL](./2026/Prague_PostgreSQL_MeetUp_202601/selfdriving_postgresql.pdf)
 
@@ -62,7 +66,7 @@
 
 ### 2025.08.27: credativ Tech Talk
 
-- [PostgreSQL Native Partitioning: From Ancient Monolithic Tables to Scalable Better Future](./2025/credativ_tech_talk_20250827/postgresql_partitioning.pdf)	
+- [PostgreSQL Native Partitioning: From Ancient Monolithic Tables to Scalable Better Future](./2025/credativ_tech_talk_20250827/postgresql_partitioning.pdf)
 
 ### [2025.07.02: Armenia PostgreSQL User Group Online MeetUp, July 2025](https://www.meetup.com/armenia-postgresql-user-group/events/308579924/)
 
