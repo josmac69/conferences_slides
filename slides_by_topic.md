@@ -42,6 +42,10 @@
 
 - JSONB Data and Indexes: [Slides](./2025/credativ_tech_talk_20250620/jsonb_data_and_indexes.pdf)
 
+### Narrative Design
+
+- How to Build Conference Talks using Disney-Pixar’s Creative Process: [Slides](./2026/credativ_tech_talk_20260414/disney_pixar_creative_method.pdf)
+
 ### Other Topics
 
 - credativ-pg-migrator Talk: [Slides](./2025/credativ_tech_talk_20251031/credativ_pg_migrator_talk.pdf)

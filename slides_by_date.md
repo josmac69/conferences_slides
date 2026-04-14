@@ -3,6 +3,10 @@
 
 ## 2026
 
+### 2026.04.14: credativ Tech Talk
+
+- [How to Build Conference Talks using Disney-Pixar’s Creative Process](./2026/credativ_tech_talk_20260414/disney_pixar_creative_method.pdf)
+
 ### 2026.03.28: Chemnitzer Linux-Tage 2026
 
 - [Migrations to PostgreSQL](./2026/chemnitzer_linux_tage_2026/migrations_to_postgresql.pdf)
