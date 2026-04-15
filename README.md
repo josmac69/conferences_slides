@@ -6,3 +6,5 @@ See details of my [Speaker Profile](https://medium.com/@josef.machytka/josef-mac
 * [Slides organized by year and event date](slides_by_date.md)
 * [Articles and Blog Posts](articles.md)
 * [Statistics](stats.md)
+
+Note: GitHub lately repeatedly failed to show PDF files in some browsers. Try to refresh the page several times or clone the repository and open the PDF files locally.
