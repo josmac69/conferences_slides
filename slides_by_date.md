@@ -3,6 +3,11 @@
 
 ## 2026
 
+### [2026.04.21-22: German PostgreSQL Conference 2026](https://2026.pgconf.de/)
+
+- [Migrating Legacy & Proprietary Databases to PostgreSQL with credativ-pg-migrator](./2026/German_PostgreSQL_Conference_2026/migrations_to_postgresql.pdf)
+- [Beyond work_mem Myths: A Source Code Guided Tour Through PostgreSQL Memory Usage (version 2)](./2026/German_PostgreSQL_Conference_2026/beyond_work_mem_myths.pdf)
+
 ### 2026.04.14: credativ Tech Talk
 
 - [How to Build Conference Talks using Disney-Pixar’s Creative Process](./2026/credativ_tech_talk_20260414/disney_pixar_creative_method.pdf)
