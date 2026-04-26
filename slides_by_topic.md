@@ -31,6 +31,7 @@
 ### Architecture & Internals
 
 - PostgreSQL Shared Buffers Internals: [Slides](./2026/CERN_PGDay_2026/postgresql_shared_buffers.pdf)
+- The Alchemy of Shared Buffers: [Slides](./2026/HOW2026/postgresql_shared_buffers.pdf)
 - Beyond work_mem Myths: [Slides](./2026/nordic_pgday_2026_helsinki/beyond_work_mem_myths.pdf)
 - Beyond work_mem Myths: A Source Code Guided Tour Through PostgreSQL Memory Usage (version 2): [Slides](./2026/German_PostgreSQL_Conference_2026/beyond_work_mem_myths.pdf)
 
