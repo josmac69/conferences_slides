@@ -6,6 +6,7 @@
 ### 2026.04.26: HOW2026: PostgreSQL & IvorySQL Eco Conference
 
 - [The Alchemy of Shared Buffers](./2026/HOW2026/postgresql_shared_buffers.pdf)
+- [Linux and PostgreSQL in the Multiverse of Connections: Why Are PostgreSQL Connections Expensive?](./2026/HOW2026/postgresql_linux_multiverse.pdf)
 
 ### [2026.04.21-22: German PostgreSQL Conference 2026](https://2026.pgconf.de/)
 

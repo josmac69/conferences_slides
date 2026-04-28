@@ -39,6 +39,7 @@
 
 - PgBouncer Workshop Part 1: [Slides](./2026/Prague_PostgreSQL_Developer_Day_2026/pgbouncer_workshop_part1.pdf)
 - PgBouncer Workshop Part 2: [Slides](./2026/Prague_PostgreSQL_Developer_Day_2026/pgbouncer_workshop_part2.pdf)
+- Linux and PostgreSQL in the Multiverse of Connections: [Slides](./2026/HOW2026/postgresql_linux_multiverse.pdf)
 
 ### JSONB
 
