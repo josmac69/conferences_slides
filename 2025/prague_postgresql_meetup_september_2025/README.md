@@ -15,3 +15,12 @@ Key Takeaways:
 - A newly created connection consumes only up to 10 MB of physical memory, independent of the work_mem setting
 - Additional memory is allocated and later released as queries execute
 - Work_mem is a “soft maximum limit” — it may not be fully used, but it can also be exceeded
+
+## Photos
+
+<a href="1758611825043.jpeg"><img src="1758611825043.jpeg" height="150" /></a>
+<a href="1758611825639.jpeg"><img src="1758611825639.jpeg" height="150" /></a>
+<a href="1758635402858.jpeg"><img src="1758635402858.jpeg" height="150" /></a>
+<a href="1758716124461.jpeg"><img src="1758716124461.jpeg" height="150" /></a>
+<a href="1758716124850.jpeg"><img src="1758716124850.jpeg" height="150" /></a>
+
